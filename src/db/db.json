@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "json-server",
+      "author": "Mr_YanG"
+    },
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "Boolean_YanG"
+    },
+    {
+      "hero": "am",
+      "age": 58,
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
